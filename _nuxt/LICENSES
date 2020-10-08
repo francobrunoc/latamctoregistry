@@ -76,6 +76,13 @@ object-assign
  */
 
 /*!
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT license
+ */
+
+/*!
  * cookie
  * Copyright(c) 2012-2014 Roman Shtylman
  * Copyright(c) 2015 Douglas Christopher Wilson
@@ -145,15 +152,6 @@ PERFORMANCE OF THIS SOFTWARE.
  * This file is a port of shadowCSS from webcomponents.js to TypeScript.
  * https://github.com/webcomponents/webcomponentsjs/blob/4efecd7e0e/src/ShadowCSS/ShadowCSS.js
  * https://github.com/angular/angular/blob/master/packages/compiler/src/shadow_css.ts
- */
-
-/**
- * [chartjs-plugin-labels]{@link https://github.com/emn178/chartjs-plugin-labels}
- *
- * @version 1.1.0
- * @author Chen, Yi-Cyuan [emn178@gmail.com]
- * @copyright Chen, Yi-Cyuan 2017-2018
- * @license MIT
  */
 
 //! moment.js
