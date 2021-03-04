@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{802:function(n,o,e){"use strict";e.r(o);var c={name:"redcap",created:function(){window.open("http://redcap.cardiologia.org.br/")}},d=e(63),component=Object(d.a)(c,void 0,void 0,!1,null,null,null);o.default=component.exports}}]);
