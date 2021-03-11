@@ -1,8 +1,8 @@
 /*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT license
  */
 
 
@@ -12,19 +12,6 @@
  * (c) 2019 Akihiko Kusanagi
  * Released under the MIT license
  */
-
-
-/*!
- * Chart.js v2.9.4
- * https://www.chartjs.org
- * (c) 2020 Chart.js Contributors
- * Released under the MIT License
- */
-
-//! moment.js
-
-//! moment.js locale configuration
-
 
 /**
  * @license
@@ -145,21 +132,6 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 
-/*!
- * chartjs-plugin-datalabels v0.7.0
- * https://chartjs-plugin-datalabels.netlify.com
- * (c) 2019 Chart.js Contributors
- * Released under the MIT license
- */
-
-/*!
- * chartjs-plugin-datalabels v0.7.0
- * https://chartjs-plugin-datalabels.netlify.com
- * (c) 2019 Chart.js Contributors
- * Released under the MIT license
- */
-
-
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
 AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
@@ -168,6 +140,18 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
+
+
+/*!
+ * Chart.js v2.9.4
+ * https://www.chartjs.org
+ * (c) 2020 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
 
 
 /*!
@@ -187,3 +171,11 @@ Element.getRootNode()
 /*!
 Element.isConnected()
 */
+
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
