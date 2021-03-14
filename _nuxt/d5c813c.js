@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{1090:function(n,e,t){"use strict";t.r(e);var o={name:"webmail",created:function(){window.open("https://latamctoregistry.awsapps.com/mail"),this.$router.back()}},c=t(55),component=Object(c.a)(o,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
