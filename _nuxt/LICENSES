@@ -75,17 +75,16 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-
-/*!
  * chartjs-plugin-colorschemes v0.4.0
  * https://nagix.github.io/chartjs-plugin-colorschemes
  * (c) 2019 Akihiko Kusanagi
+ * Released under the MIT license
+ */
+
+/*!
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
+ * (c) 2019 Chart.js Contributors
  * Released under the MIT license
  */
 
@@ -98,13 +97,6 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
-
-/*!
- * chartjs-plugin-datalabels v0.7.0
- * https://chartjs-plugin-datalabels.netlify.com
- * (c) 2019 Chart.js Contributors
- * Released under the MIT license
- */
 
 
 /**
@@ -148,6 +140,22 @@ Element.isConnected()
 
 
 /*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+
+/*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
   * @license MIT
@@ -178,12 +186,4 @@ Element.isConnected()
  * vuex v3.6.2
  * (c) 2021 Evan You
  * @license MIT
- */
-
-
-/*!
- * chartjs-plugin-colorschemes v0.4.0
- * https://nagix.github.io/chartjs-plugin-colorschemes
- * (c) 2019 Akihiko Kusanagi
- * Released under the MIT license
  */
