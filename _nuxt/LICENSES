@@ -1,4 +1,27 @@
 /*!
+ * chartjs-plugin-colorschemes v0.4.0
+ * https://nagix.github.io/chartjs-plugin-colorschemes
+ * (c) 2019 Akihiko Kusanagi
+ * Released under the MIT license
+ */
+
+/*!
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT license
+ */
+
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+
+/*!
   * vue-scrollto v2.20.0
   * (c) 2019 Randjelovic Igor
   * @license MIT
@@ -63,15 +86,11 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * Chart.js v2.9.4
- * https://www.chartjs.org
- * (c) 2020 Chart.js Contributors
- * Released under the MIT License
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT license
  */
-
-//! moment.js
-
-//! moment.js locale configuration
 
 
 /*!
@@ -79,79 +98,6 @@ PERFORMANCE OF THIS SOFTWARE.
  * https://nagix.github.io/chartjs-plugin-colorschemes
  * (c) 2019 Akihiko Kusanagi
  * Released under the MIT license
- */
-
-/*!
- * chartjs-plugin-datalabels v0.7.0
- * https://chartjs-plugin-datalabels.netlify.com
- * (c) 2019 Chart.js Contributors
- * Released under the MIT license
- */
-
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */
-
-
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- *
- * This file is a port of shadowCSS from webcomponents.js to TypeScript.
- * https://github.com/webcomponents/webcomponentsjs/blob/4efecd7e0e/src/ShadowCSS/ShadowCSS.js
- * https://github.com/angular/angular/blob/master/packages/compiler/src/shadow_css.ts
- */
-
-
-/*!
- * chartjs-plugin-datalabels v0.7.0
- * https://chartjs-plugin-datalabels.netlify.com
- * (c) 2019 Chart.js Contributors
- * Released under the MIT license
- */
-
-
-/*!
-DOMTokenList
-*/
-
-/*!
-Element.closest and Element.matches
-https://github.com/jonathantneal/closest
-Creative Commons Zero v1.0 Universal
-*/
-
-/*!
-Element.getRootNode()
-*/
-
-/*!
-Element.isConnected()
-*/
-
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
  */
 
 
@@ -187,3 +133,65 @@ Element.isConnected()
  * (c) 2021 Evan You
  * @license MIT
  */
+
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+
+/*!
+DOMTokenList
+*/
+
+/*!
+Element.closest and Element.matches
+https://github.com/jonathantneal/closest
+Creative Commons Zero v1.0 Universal
+*/
+
+/*!
+Element.getRootNode()
+*/
+
+/*!
+Element.isConnected()
+*/
+
+
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ *
+ * This file is a port of shadowCSS from webcomponents.js to TypeScript.
+ * https://github.com/webcomponents/webcomponentsjs/blob/4efecd7e0e/src/ShadowCSS/ShadowCSS.js
+ * https://github.com/angular/angular/blob/master/packages/compiler/src/shadow_css.ts
+ */
+
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+
+/*!
+ * Chart.js v2.9.4
+ * https://www.chartjs.org
+ * (c) 2020 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
